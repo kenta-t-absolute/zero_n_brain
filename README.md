@@ -1,2 +1,1 @@
-# zero_n_brain
-表示されない
+# zero_n_brain_2
